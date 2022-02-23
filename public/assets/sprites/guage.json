@@ -1,0 +1,44 @@
+{"frames": [
+
+{
+	"filename": "blue.png",
+	"frame": {"x":0,"y":0,"w":32,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":128},
+	"sourceSize": {"w":32,"h":128}
+},
+{
+	"filename": "dark.png",
+	"frame": {"x":32,"y":0,"w":32,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":128},
+	"sourceSize": {"w":32,"h":128}
+},
+{
+	"filename": "red.png",
+	"frame": {"x":64,"y":0,"w":32,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":128},
+	"sourceSize": {"w":32,"h":128}
+},
+{
+	"filename": "yellow.png",
+	"frame": {"x":96,"y":0,"w":32,"h":128},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":128},
+	"sourceSize": {"w":32,"h":128}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "guage.png",
+	"format": "RGBA8888",
+	"size": {"w":96,"h":128},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a79a9e7707da4807f43feddb9fc9d78a:057d0141ab3a33959c6ea84a887a9a3b:a2edc8e142f3a05d7606cf169b1f2538$"
+}
+}

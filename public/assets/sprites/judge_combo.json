@@ -1,0 +1,860 @@
+{
+	"textures": [
+		{
+			"image": "judge_combo.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1180,
+				"h": 156
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "judge_combo_0b.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_0g.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 60,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_0r.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 119,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_0y.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 178,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_1b.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 237,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_1g.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 296,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_1r.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 355,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_1y.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 414,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_2b.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 473,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_2g.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 532,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_2r.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 591,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_2y.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 650,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_3b.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 709,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_3g.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 768,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_3r.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 827,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_3y.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 886,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_4b.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 945,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_4g.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 1004,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_4r.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 1063,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_4y.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 1122,
+						"y": 1,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_5b.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 1,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_5g.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 60,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_5r.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 119,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_5y.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 178,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_6b.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 237,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_6g.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 296,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_6r.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 355,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_6y.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 414,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_7b.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 473,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_7g.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 532,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_7r.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 591,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_7y.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 650,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_8b.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 709,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_8g.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 768,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_8r.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 827,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_8y.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 886,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_9b.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 945,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_9g.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 1004,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_9r.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 1063,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				},
+				{
+					"filename": "judge_combo_9y.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 57,
+						"h": 76
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 57,
+						"h": 76
+					},
+					"frame": {
+						"x": 1122,
+						"y": 79,
+						"w": 57,
+						"h": 76
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e35f01ac3ff1a285cf5e3f7cafb2a910:c28640078d869a9c7265721d7a3560ea:18058526fd451e1110145a6a6cf11686$"
+	}
+}

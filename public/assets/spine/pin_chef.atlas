@@ -1,0 +1,34 @@
+
+pin_chef.png
+size: 372, 105
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+decide_pin_chef
+  rotate: true
+  xy: 75, 5
+  size: 100, 186
+  orig: 102, 188
+  offset: 1, 1
+  index: -1
+decide_pin_chef_bottom
+  rotate: true
+  xy: 263, 15
+  size: 90, 18
+  orig: 92, 20
+  offset: 1, 1
+  index: -1
+decide_pin_chef_hand_1
+  rotate: false
+  xy: 2, 4
+  size: 71, 101
+  orig: 73, 103
+  offset: 1, 1
+  index: -1
+decide_pin_chef_hand_2
+  rotate: false
+  xy: 283, 17
+  size: 87, 88
+  orig: 89, 90
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,36 @@
+{"frames": [
+
+{
+	"filename": "DRAW.png",
+	"frame": {"x":0,"y":0,"w":478,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":478,"h":74},
+	"sourceSize": {"w":478,"h":74}
+},
+{
+	"filename": "SPEED.png",
+	"frame": {"x":478,"y":0,"w":398,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":398,"h":74},
+	"sourceSize": {"w":398,"h":74}
+},
+{
+	"filename": "TIMING.png",
+	"frame": {"x":876,"y":0,"w":576,"h":74},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":576,"h":74},
+	"sourceSize": {"w":576,"h":74}
+}],
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "syncoption_detail.png",
+	"format": "RGBA8888",
+	"size": {"w":1452,"h":74},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c1220c76cd254352f5da2e70b7b29cfb:ba343112eb3dddedf2d5315ba65267b2:e3af27f96734134afa582fd4f46224f8$"
+}
+}

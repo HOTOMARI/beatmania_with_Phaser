@@ -1,0 +1,19 @@
+{
+"num":13,
+
+"song":[
+    {"name":"bass 2 bass", "genre":"BUBBLEGUM DANCE", "artist":"Ryu☆", "diff":{"n":1,"h":19,"a":34},"key":"bass2bass"},
+    {"name":"5.1.1.", "genre":"PIANO AMBIENT", "artist":"dj nagureo", "diff":{"n":2,"h":18,"a":34},"key":"511"},
+    {"name":"starmine", "genre":"HAPPY HARDCORE", "artist":"Ryu☆", "diff":{"n":2,"h":17,"a":33},"key":"starmine"},
+    {"name":"V", "genre":"PROGRESSIVE", "artist":"TAKA", "diff":{"n":5,"h":22,"a":36},"key":"V"},
+    {"name":"ハードベース・フェスタ", "genre":"A-STYLE RUSSIAN HARDBASS", "artist":"かめりあ feat. ななひら", "diff":{"n":6,"h":21,"a":35},"key":"HARDBASS"},
+    {"name":"Chrono Diver PENDULUMs", "genre":"CHRONO BREAKS", "artist":"猫叉L.E.D.Master+", "diff":{"n":7,"h":23,"a":36},"key":"PENDULUMs"},
+    {"name":"シムルグの目醒め", "genre":"NATURE", "artist":"BEMANI Sound Team \"DJ TOTTO\"", "diff":{"n":7,"h":22,"a":36},"key":"SHIMURUGU"},
+    {"name":"EMERALDAS", "genre":"IRREGULAR DJENT STEP", "artist":"BEMANI Sound Team \"HuΣeR vs dj Hellix\"", "diff":{"n":7,"h":23,"a":36},"key":"EMERALDAS"},
+    {"name":"Chemical Cookie", "genre":"FUTURE BASS", "artist":"YUC'e", "diff":{"n":5,"h":20,"a":34},"key":"Chemical"},
+    {"name":"apo:llioth", "genre":"HARDCORE", "artist":"Juggernaut.", "diff":{"n":5,"h":21,"a":36},"key":"apollioth"},
+    {"name":"VALKYRIAS -英雄誕生-", "genre":"HEROIC VALHALLA ROCK", "artist":"BEMANI Sound Team \"HuΣeR\" feat.Fernweh", "diff":{"n":2,"h":18,"a":33},"key":"VALKYRIAS"},  
+    {"name":"Mermaid girl", "genre":"BUBBLEGUM DANCE", "artist":"Cream puff", "diff":{"n":5,"h":20,"a":34},"key":"Mermaid"},
+    {"name":"IX", "genre":"BLOOD METAL", "artist":"dj TAKA VS DJ TOTTO feat.藍", "diff":{"n":6,"h":23,"a":36},"key":"IX"}
+]
+}

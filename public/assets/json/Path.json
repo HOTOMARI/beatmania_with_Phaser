@@ -1,0 +1,119 @@
+{
+  "511": {
+    "music": "assets/sounds/511.mp3",
+    "chart": {
+      "n": "assets/charts/511/normal.json",
+      "h": "assets/charts/511/hyper.json",
+      "a": "assets/charts/511/another.json"
+    },
+    "video": "assets/video/511.mp4"
+  },
+  "bass2bass": {
+    "music": "assets/sounds/bass 2 bass.mp3",
+    "chart": {
+      "n": "assets/charts/bass2bass/normal.json",
+      "h": "assets/charts/bass2bass/hyper.json",
+      "a": "assets/charts/bass2bass/another.json"
+    },
+    "video": "assets/video/bass 2 bass.mp4"
+  },
+  "PENDULUMs": {
+    "music": "assets/sounds/Chrono Diver PENDULUMs.mp3",
+    "chart": {
+      "n": "assets/charts/PENDULUMs/normal.json",
+      "h": "assets/charts/PENDULUMs/hyper.json",
+      "a": "assets/charts/PENDULUMs/another.json"
+    },
+    "video": "assets/video/Chrono Diver PENDULUMs.mp4"
+  },
+  "EMERALDAS": {
+    "music": "assets/sounds/EMERALDAS.mp3",
+    "chart": {
+      "n": "assets/charts/EMERALDAS/normal.json",
+      "h": "assets/charts/EMERALDAS/hyper.json",
+      "a": "assets/charts/EMERALDAS/another.json"
+    },
+    "video": "assets/video/EMERALDAS.mp4"
+  },
+  "VALKYRIAS": {
+    "music": "assets/sounds/VALKYRIAS -英雄誕生-.mp3",
+    "chart": {
+      "n": "assets/charts/VALKYRIAS/normal.json",
+      "h": "assets/charts/VALKYRIAS/hyper.json",
+      "a": "assets/charts/VALKYRIAS/another.json"
+    },
+    "video": "assets/video/VALKYRIAS -英雄誕生-.mp4"
+  },
+  "apollioth": {
+    "music": "assets/sounds/apollioth.mp3",
+    "chart": {
+      "n": "assets/charts/apollioth/normal.json",
+      "h": "assets/charts/apollioth/hyper.json",
+      "a": "assets/charts/apollioth/another.json"
+    },
+    "video": "assets/video/apollioth.mp4"
+  },
+  "SHIMURUGU": {
+    "music": "assets/sounds/シムルグの目醒め.mp3",
+    "chart": {
+      "n": "assets/charts/SHIMURUGU/normal.json",
+      "h": "assets/charts/SHIMURUGU/hyper.json",
+      "a": "assets/charts/SHIMURUGU/another.json"
+    },
+    "video": "assets/video/シムルグの目醒め.mp4"
+  },
+  "starmine": {
+    "music": "assets/sounds/starmine.mp3",
+    "chart": {
+      "n": "assets/charts/starmine/normal.json",
+      "h": "assets/charts/starmine/hyper.json",
+      "a": "assets/charts/starmine/another.json"
+    },
+    "video": "assets/video/starmine.mp4"
+  },
+  "HARDBASS": {
+    "music": "assets/sounds/ハードベースフェスタ.mp3",
+    "chart": {
+      "n": "assets/charts/HARDBASS/normal.json",
+      "h": "assets/charts/HARDBASS/hyper.json",
+      "a": "assets/charts/HARDBASS/another.json"
+    },
+    "video": "assets/video/ハードベースフェスタ.mp4"
+  },
+  "V": {
+    "music": "assets/sounds/V.mp3",
+    "chart": {
+      "n": "assets/charts/V/normal.json",
+      "h": "assets/charts/V/hyper.json",
+      "a": "assets/charts/V/another.json"
+    },
+    "video": "assets/video/V.mp4"
+  },
+  "Mermaid": {
+    "music": "assets/sounds/Mermaid Girl.mp3",
+    "chart": {
+      "n": "assets/charts/Mermaid/normal.json",
+      "h": "assets/charts/Mermaid/hyper.json",
+      "a": "assets/charts/Mermaid/another.json"
+    },
+    "video": "assets/video/Mermaid Girl.mp4"
+  },
+  "Chemical": {
+    "music": "assets/sounds/Chemical Cookie.mp3",
+    "chart": {
+      "n": "assets/charts/Chemical/normal.json",
+      "h": "assets/charts/Chemical/hyper.json",
+      "a": "assets/charts/Chemical/another.json"
+    },
+    "video": "assets/video/Chemical Cookie.mp4"
+  },
+  "IX": {
+    "music": "assets/sounds/IX.mp3",
+    "chart": {
+      "n": "assets/charts/IX/normal.json",
+      "h": "assets/charts/IX/hyper.json",
+      "a": "assets/charts/IX/another.json"
+    },
+    "video": "assets/video/IX.mp4"
+  }
+}

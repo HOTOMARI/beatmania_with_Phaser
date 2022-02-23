@@ -1,0 +1,9 @@
+1. node.js 설치
+2. cmd에서 npm install -g parcel-bundler
+3. 디렉토리 이동후 npm run start
+4. 브라우저에서 127.0.0.1:8000 이동
+
+
+방향키 이동
+스페이스 선택
+ 시프트 옵션창

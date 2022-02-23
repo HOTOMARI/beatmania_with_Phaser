@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "pg_result.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 256,
+				"h": 18
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "score_panel_gre00.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 16
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 62,
+						"h": 16
+					}
+				},
+				{
+					"filename": "score_panel_gre01.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 16
+					},
+					"frame": {
+						"x": 65,
+						"y": 1,
+						"w": 62,
+						"h": 16
+					}
+				},
+				{
+					"filename": "score_panel_gre02.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 16
+					},
+					"frame": {
+						"x": 129,
+						"y": 1,
+						"w": 62,
+						"h": 16
+					}
+				},
+				{
+					"filename": "score_panel_gre03.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 62,
+						"h": 16
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 62,
+						"h": 16
+					},
+					"frame": {
+						"x": 193,
+						"y": 1,
+						"w": 62,
+						"h": 16
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:1bf7e3236366ed4282538cab40b7550d:f98b853f15ab9a0a64505f9b72d0751e:4c230a7f334f3703c0b46a36c8b8a710$"
+	}
+}
